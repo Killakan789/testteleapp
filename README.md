@@ -21,7 +21,7 @@ php artisan queue:work
 
 ## 🤖 Telegram
 1. create bot in  @BotFather an get a token.
-2. В `.env` добавьте:
+2. add to  `.env` :
 ```
 TELEGRAM_BOT_TOKEN=<your_token>
 ```
